@@ -1,0 +1,7 @@
+\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\OCP\bin\Debug\netstandard2.0\OCP.deps.json
+\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\OCP\bin\Debug\netstandard2.0\OCP.dll
+\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\OCP\bin\Debug\netstandard2.0\OCP.pdb
+\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\OCP\obj\Debug\netstandard2.0\OCP.AssemblyInfoInputs.cache
+\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\OCP\obj\Debug\netstandard2.0\OCP.AssemblyInfo.cs
+\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\OCP\obj\Debug\netstandard2.0\OCP.dll
+\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\OCP\obj\Debug\netstandard2.0\OCP.pdb
