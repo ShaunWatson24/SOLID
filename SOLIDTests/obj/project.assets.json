@@ -4793,8 +4793,8 @@
     },
     "SRP/1.0.0": {
       "type": "project",
-      "path": "../SOLID/SRP.csproj",
-      "msbuildProject": "../SOLID/SRP.csproj"
+      "path": "../SRP/SRP.csproj",
+      "msbuildProject": "../SRP/SRP.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4852,8 +4852,8 @@
             "\\\\INSURANCE\\FileData\\SiteHome\\Sunderland\\SWatson3\\Personal Development\\Competency Framework\\Evidence\\SOLID\\SOLID\\OCP\\OCP.csproj": {
               "projectPath": "\\\\INSURANCE\\FileData\\SiteHome\\Sunderland\\SWatson3\\Personal Development\\Competency Framework\\Evidence\\SOLID\\SOLID\\OCP\\OCP.csproj"
             },
-            "\\\\INSURANCE\\FileData\\SiteHome\\Sunderland\\SWatson3\\Personal Development\\Competency Framework\\Evidence\\SOLID\\SOLID\\SOLID\\SRP.csproj": {
-              "projectPath": "\\\\INSURANCE\\FileData\\SiteHome\\Sunderland\\SWatson3\\Personal Development\\Competency Framework\\Evidence\\SOLID\\SOLID\\SOLID\\SRP.csproj"
+            "\\\\INSURANCE\\FileData\\SiteHome\\Sunderland\\SWatson3\\Personal Development\\Competency Framework\\Evidence\\SOLID\\SOLID\\SRP\\SRP.csproj": {
+              "projectPath": "\\\\INSURANCE\\FileData\\SiteHome\\Sunderland\\SWatson3\\Personal Development\\Competency Framework\\Evidence\\SOLID\\SOLID\\SRP\\SRP.csproj"
             }
           }
         }

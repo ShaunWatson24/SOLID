@@ -86,8 +86,6 @@
 \\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\SOLIDTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 \\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\SOLIDTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 \\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\SOLIDTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\SOLIDTests\bin\Debug\netcoreapp3.1\SRP.dll
-\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\SOLIDTests\bin\Debug\netcoreapp3.1\SRP.pdb
 \\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\SOLIDTests\obj\Debug\netcoreapp3.1\SOLID.Tests.csprojAssemblyReference.cache
 \\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\SOLIDTests\obj\Debug\netcoreapp3.1\SOLID.Tests.AssemblyInfoInputs.cache
 \\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\SOLIDTests\obj\Debug\netcoreapp3.1\SOLID.Tests.AssemblyInfo.cs
@@ -104,3 +102,5 @@
 \\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\SOLIDTests\bin\Debug\netcoreapp3.1\ISP.pdb
 \\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\SOLIDTests\bin\Debug\netcoreapp3.1\DIP.dll
 \\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\SOLIDTests\bin\Debug\netcoreapp3.1\DIP.pdb
+\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\SOLIDTests\bin\Debug\netcoreapp3.1\SRP.dll
+\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\SOLIDTests\bin\Debug\netcoreapp3.1\SRP.pdb

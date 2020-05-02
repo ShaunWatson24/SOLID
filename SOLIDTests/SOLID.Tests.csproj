@@ -18,7 +18,7 @@
     <ProjectReference Include="..\ISP\ISP.csproj" />
     <ProjectReference Include="..\LSP\LSP.csproj" />
     <ProjectReference Include="..\OCP\OCP.csproj" />
-    <ProjectReference Include="..\SOLID\SRP.csproj" />
+    <ProjectReference Include="..\SRP\SRP.csproj" />
   </ItemGroup>
 
 </Project>

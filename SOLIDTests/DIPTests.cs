@@ -21,7 +21,7 @@ namespace SOLID.Tests
             double result = calculator.Solve(24, 3);
 
             // Assert
-            Assert.AreEqual(result, 27);
+            Assert.AreEqual(27, result);
         }
 
         [Test]
@@ -34,7 +34,7 @@ namespace SOLID.Tests
             double result = calculator.Solve(24, 3);
 
             // Assert
-            Assert.AreEqual(result, 72);
+            Assert.AreEqual(72, result);
         }
 
         [Test]
@@ -47,7 +47,7 @@ namespace SOLID.Tests
             double result = calculator.Solve(24, 3);
 
             // Assert
-            Assert.AreEqual(result, 21);
+            Assert.AreEqual(21, result);
         }
 
         [Test]
@@ -60,7 +60,7 @@ namespace SOLID.Tests
             double result = calculator.Solve(24, 3);
 
             // Assert
-            Assert.AreEqual(result, 8);
+            Assert.AreEqual(8, result);
         }
     }
 }

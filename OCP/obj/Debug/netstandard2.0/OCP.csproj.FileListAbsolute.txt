@@ -5,4 +5,3 @@
 \\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\OCP\obj\Debug\netstandard2.0\OCP.AssemblyInfo.cs
 \\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\OCP\obj\Debug\netstandard2.0\OCP.dll
 \\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\OCP\obj\Debug\netstandard2.0\OCP.pdb
-\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\OCP\obj\Debug\netstandard2.0\OCP.csprojAssemblyReference.cache

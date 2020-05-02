@@ -274,8 +274,8 @@
               "\\\\INSURANCE\\FileData\\SiteHome\\Sunderland\\SWatson3\\Personal Development\\Competency Framework\\Evidence\\SOLID\\SOLID\\OCP\\OCP.csproj": {
                 "projectPath": "\\\\INSURANCE\\FileData\\SiteHome\\Sunderland\\SWatson3\\Personal Development\\Competency Framework\\Evidence\\SOLID\\SOLID\\OCP\\OCP.csproj"
               },
-              "\\\\INSURANCE\\FileData\\SiteHome\\Sunderland\\SWatson3\\Personal Development\\Competency Framework\\Evidence\\SOLID\\SOLID\\SOLID\\SRP.csproj": {
-                "projectPath": "\\\\INSURANCE\\FileData\\SiteHome\\Sunderland\\SWatson3\\Personal Development\\Competency Framework\\Evidence\\SOLID\\SOLID\\SOLID\\SRP.csproj"
+              "\\\\INSURANCE\\FileData\\SiteHome\\Sunderland\\SWatson3\\Personal Development\\Competency Framework\\Evidence\\SOLID\\SOLID\\SRP\\SRP.csproj": {
+                "projectPath": "\\\\INSURANCE\\FileData\\SiteHome\\Sunderland\\SWatson3\\Personal Development\\Competency Framework\\Evidence\\SOLID\\SOLID\\SRP\\SRP.csproj"
               }
             }
           }
@@ -325,14 +325,14 @@
         }
       }
     },
-    "\\\\INSURANCE\\FileData\\SiteHome\\Sunderland\\SWatson3\\Personal Development\\Competency Framework\\Evidence\\SOLID\\SOLID\\SOLID\\SRP.csproj": {
+    "\\\\INSURANCE\\FileData\\SiteHome\\Sunderland\\SWatson3\\Personal Development\\Competency Framework\\Evidence\\SOLID\\SOLID\\SRP\\SRP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\INSURANCE\\FileData\\SiteHome\\Sunderland\\SWatson3\\Personal Development\\Competency Framework\\Evidence\\SOLID\\SOLID\\SOLID\\SRP.csproj",
+        "projectUniqueName": "\\\\INSURANCE\\FileData\\SiteHome\\Sunderland\\SWatson3\\Personal Development\\Competency Framework\\Evidence\\SOLID\\SOLID\\SRP\\SRP.csproj",
         "projectName": "SRP",
-        "projectPath": "\\\\INSURANCE\\FileData\\SiteHome\\Sunderland\\SWatson3\\Personal Development\\Competency Framework\\Evidence\\SOLID\\SOLID\\SOLID\\SRP.csproj",
+        "projectPath": "\\\\INSURANCE\\FileData\\SiteHome\\Sunderland\\SWatson3\\Personal Development\\Competency Framework\\Evidence\\SOLID\\SOLID\\SRP\\SRP.csproj",
         "packagesPath": "C:\\Users\\SWatson3\\.nuget\\packages\\",
-        "outputPath": "\\\\INSURANCE\\FileData\\SiteHome\\Sunderland\\SWatson3\\Personal Development\\Competency Framework\\Evidence\\SOLID\\SOLID\\SOLID\\obj\\",
+        "outputPath": "\\\\INSURANCE\\FileData\\SiteHome\\Sunderland\\SWatson3\\Personal Development\\Competency Framework\\Evidence\\SOLID\\SOLID\\SRP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
