@@ -1,0 +1,8 @@
+\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\LSP\bin\Debug\netstandard2.0\LSP.deps.json
+\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\LSP\bin\Debug\netstandard2.0\LSP.dll
+\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\LSP\bin\Debug\netstandard2.0\LSP.pdb
+\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\LSP\obj\Debug\netstandard2.0\LSP.csprojAssemblyReference.cache
+\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\LSP\obj\Debug\netstandard2.0\LSP.AssemblyInfoInputs.cache
+\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\LSP\obj\Debug\netstandard2.0\LSP.AssemblyInfo.cs
+\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\LSP\obj\Debug\netstandard2.0\LSP.dll
+\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\LSP\obj\Debug\netstandard2.0\LSP.pdb
