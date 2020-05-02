@@ -11,13 +11,6 @@ namespace SRP
             if (!isValid) return;
 
             WorkoutDB.ExerciseList.Add(exerciseName);
-
-            Console.WriteLine($"{exerciseName} Added.");
-        }
-
-        public void OutputExerciseList()
-        {
-            Console.WriteLine(string.Join("\n", WorkoutDB.ExerciseList));
         }
     }
 }

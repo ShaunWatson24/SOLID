@@ -41,7 +41,7 @@ namespace SOLID.Tests
         }
 
         [Test]
-        public void Can__not_withdraw_spike_ticket_that_is_done()
+        public void Can_not_withdraw_spike_ticket_that_is_done()
         {
             // Arrange
             JiraTicket ticket = new SpikeTicket()
