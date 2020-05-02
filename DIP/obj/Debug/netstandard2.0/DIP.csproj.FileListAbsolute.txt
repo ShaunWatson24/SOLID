@@ -1,7 +1,0 @@
-\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\DIP\bin\Debug\netstandard2.0\DIP.deps.json
-\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\DIP\bin\Debug\netstandard2.0\DIP.dll
-\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\DIP\bin\Debug\netstandard2.0\DIP.pdb
-\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\DIP\obj\Debug\netstandard2.0\DIP.AssemblyInfoInputs.cache
-\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\DIP\obj\Debug\netstandard2.0\DIP.AssemblyInfo.cs
-\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\DIP\obj\Debug\netstandard2.0\DIP.dll
-\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\DIP\obj\Debug\netstandard2.0\DIP.pdb

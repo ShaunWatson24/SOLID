@@ -1,8 +1,0 @@
-\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\SOLID\bin\Debug\netstandard2.0\SRP.deps.json
-\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\SOLID\bin\Debug\netstandard2.0\SRP.dll
-\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\SOLID\bin\Debug\netstandard2.0\SRP.pdb
-\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\SOLID\obj\Debug\netstandard2.0\SRP.AssemblyInfoInputs.cache
-\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\SOLID\obj\Debug\netstandard2.0\SRP.AssemblyInfo.cs
-\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\SOLID\obj\Debug\netstandard2.0\SRP.dll
-\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\SOLID\obj\Debug\netstandard2.0\SRP.pdb
-\\INSURANCE\FileData\SiteHome\Sunderland\SWatson3\Personal Development\Competency Framework\Evidence\SOLID\SOLID\SOLID\obj\Debug\netstandard2.0\SRP.csprojAssemblyReference.cache
