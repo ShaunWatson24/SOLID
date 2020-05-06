@@ -4,16 +4,16 @@ namespace DIP
 {
     public class Calculator
     {
+        private ICalculatorOperation _calculatorOperation { get; }
+
         public Calculator(ICalculatorOperation calculatorOperation)
         {
-            CalculatorOperation = calculatorOperation;
+            _calculatorOperation = calculatorOperation;
         }
-
-        public ICalculatorOperation CalculatorOperation { get; }
 
         public double Solve(double x, double y)
         {
-            return CalculatorOperation.Calculate(x, y);
+            return _calculatorOperation.Calculate(x, y);
         }
     }
 }

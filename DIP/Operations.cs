@@ -2,38 +2,35 @@
 
 namespace DIP
 {
-    public class Operations
+    public class AddCalculatorOperation : ICalculatorOperation
     {
-        public class AddCalculatorOperation : ICalculatorOperation
+        public double Calculate(double x, double y)
         {
-            public double Calculate(double x, double y)
-            {
-                return x + y;
-            }
+            return x + y;
         }
+    }
 
-        public class MultiplyCalculatorOperation : ICalculatorOperation
+    public class MultiplyCalculatorOperation : ICalculatorOperation
+    {
+        public double Calculate(double x, double y)
         {
-            public double Calculate(double x, double y)
-            {
-                return x * y;
-            }
+            return x * y;
         }
+    }
 
-        public class SubtractCalculatorOperation : ICalculatorOperation
+    public class SubtractCalculatorOperation : ICalculatorOperation
+    {
+        public double Calculate(double x, double y)
         {
-            public double Calculate(double x, double y)
-            {
-                return x - y;
-            }
+            return x - y;
         }
+    }
 
-        public class DivideCalculatorOperation : ICalculatorOperation
+    public class DivideCalculatorOperation : ICalculatorOperation
+    {
+        public double Calculate(double x, double y)
         {
-            public double Calculate(double x, double y)
-            {
-                return x / y;
-            }
+            return x / y;
         }
     }
 }
