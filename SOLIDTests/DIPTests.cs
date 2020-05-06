@@ -1,6 +1,5 @@
 using DIP;
 using NUnit.Framework;
-using static DIP.Operations;
 
 namespace SOLID.Tests
 {
